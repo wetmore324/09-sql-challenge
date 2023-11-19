@@ -14,6 +14,6 @@ After the schema was created and the data was imported, I was able to perform th
 8. List the frequency counts, in descending order, of all the employee last names (that is, how many employees share each last name).
 
 I did reach out to askbcs and found out from Angel Milla that the tables had to be created and imported in a specific order.
-Also reached out to askbcs and learned about the need for composite keys.
+Also reached out to askbcs where Mohammad Kanawat reminded me about the need for composite keys.
 
 I was able to research and get the data to import in the appropriate order without given the direct answer.
